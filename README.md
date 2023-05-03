@@ -2,7 +2,7 @@ React Practice
 ---
 Reference Source Code: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
  
-I have practice migrate from `React-Create-App` to `Vite` project and practice using Vite + React + Redux Toolkit + Redux Logger to do simple shop 1 page.
+I am practice migration from `React-Create-App` to `Vite` project and practice using Vite + React + Redux Toolkit + Redux Logger to do simple shop 1 page.
 
 - Toggle cart
 - Add product to cart
